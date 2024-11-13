@@ -1,3 +1,14 @@
-Hello, Im EpiclyDelta, But you can just call me Delta! I'm interested in making Mods for games, but for right now, this is just gonna be empty space, as I dont know
-how to make mods. When I do however, I will have all my mods posted here, and if i make a game, the sourcecode will be here.
-I also work with code in python now! Been messing around with discord bots, so you'll see the source code here as well!
+> [!NOTE]
+> I am not that active here on GitHub, at least publicly. That is because I code for fun, and mainly do personal projects. Please keep that in mind while viewing my profile!
+# Hi there! 👋😺
+Welcome to my profile!
+## Some info about me:
+- You can call me Delta!
+- 17 y/o 
+- Trans MTF 🏳️‍⚧️
+- I use she/her
+## What languages am I learning/Coding in?
+### Python
+Well, it doesn't take much to see that I really only upload Python code here.
+### HTML, CSS, JS
+**I AM** however learning HTML, CSS, And JS at the moment for web development. It'll just be another skill under my belt
