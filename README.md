@@ -12,3 +12,6 @@ Welcome to my profile!
 Well, it doesn't take much to see that I really only upload Python code here.
 ### HTML, CSS, JS
 **I AM** however learning HTML, CSS, And JS at the moment for web development. It'll just be another skill under my belt
+
+## My Carrd!
+[Delta's Page!](https://gooberdelta.carrd.co/)
