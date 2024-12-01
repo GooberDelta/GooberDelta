@@ -1,7 +1,7 @@
 > [!NOTE]
 > I am not that active here on GitHub, at least publicly. That is because I code for fun, and mainly do personal projects. Please keep that in mind while viewing my profile!
 
-> [!NOTE]
+> [!WARNING]
 > Half the code here you see will suck. This is expected. I code as a passion, not for any long-term things. So expect really odd/mashed together code, or weird formatting. Or just stupid practices. kthxbye.
 # Hi there! 👋😺
 Welcome to my profile!
